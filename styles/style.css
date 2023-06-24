@@ -79,6 +79,11 @@ header #username {
     background: #5B21B6;
 }
 
+.social__links ul .portfolio:hover{
+    background: #5B21B6;
+}
+
+
 .social__links ul .instagram:hover{
     background: #fd5949;
 }
